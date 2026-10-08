@@ -1,0 +1,11 @@
+{
+  "name": "HG Vault",
+  "short_name": "HG Vault",
+  "description": "A private local vault for notes, recordings, media and files.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08070d",
+  "theme_color": "#08070d",
+  "icons": []
+}
